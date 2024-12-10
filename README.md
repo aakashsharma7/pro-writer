@@ -27,9 +27,6 @@ Wrote something important but forgot to save? Don't worry, we got your back. You
 It works on all devices, Sounds good? Well there is lot more to come. 
 This project is Open Source so if you want any new feature, you can add this yourself by contributing to our GitHub repository or request a feature
 
-
-### Website is Live : [prowriter.itsvg.in](https://prowriter.itsvg.in)
-
 # Screensorts
    ![image](https://user-images.githubusercontent.com/81325730/194935068-342d6081-9f52-4059-947a-7c8bc6ed1e4c.png)
    ![image](https://user-images.githubusercontent.com/81325730/194935154-c399c7cd-5d05-47b8-b2c1-c354533b4484.png)
